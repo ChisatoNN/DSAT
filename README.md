@@ -70,7 +70,7 @@ The standard alignment setting uses unlabeled training images from VOC2012, VOC 
 
 **Coming soon.** The tested Python, PyTorch, CUDA, and package versions will be documented with the initial code release.
 
-<!-- TODO: After releasing the actual files, replace this section with tested commands.
+ TODO: After releasing the actual files, replace this section with tested commands.
 Example structure (not executable until the corresponding files exist):
 
 ```bash
@@ -78,14 +78,13 @@ git clone <REPOSITORY_URL>
 cd <REPOSITORY_DIRECTORY>
 # Install the exact dependencies specified by the released project.
 ```
--->
 
 ## Repository structure
 
 **To be updated after code cleanup.** Document the *actual* layout here rather than treating the example below as an existing directory tree.
 
-<!-- TODO: Replace with the real directory tree, e.g., model code, dataset loaders,
-training, inference, evaluation, configuration files, and assets. -->
+ TODO: Replace with the real directory tree, e.g., model code, dataset loaders,
+training, inference, evaluation, configuration files, and assets.
 
 ## Pretrained models and datasets
 
