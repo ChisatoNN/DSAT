@@ -127,6 +127,7 @@ Evaluated datasets:
 - [ ] Publish evaluation scripts and the exact benchmark protocols.
 - [ ] Verify the released results against the manuscript tables.
 
+<!--
 ## Citation
 
 If you use this work, please cite the paper. A BibTeX entry and publication link will be added when the bibliographic information is available.
@@ -141,3 +142,4 @@ This work builds on **CLIP Surgery** and the **Segment Anything Model (SAM)**. P
 ## License
 
 **To be announced.** A repository license will be selected and added before the public code release. Third-party models, checkpoints, and datasets remain subject to their respective licenses and terms.
+-->
