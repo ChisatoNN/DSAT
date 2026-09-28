@@ -117,6 +117,8 @@ Evaluated datasets:
 
 **TODO:** Add exact commands, expected output formats, checkpoint loading instructions, and examples using arbitrary user-supplied category queries.
 
+
+<!--
 ## Reproducibility checklist
 
 - [ ] Publish source code and tested environment specifications.
@@ -127,7 +129,7 @@ Evaluated datasets:
 - [ ] Publish evaluation scripts and the exact benchmark protocols.
 - [ ] Verify the released results against the manuscript tables.
 
-<!--
+
 ## Citation
 
 If you use this work, please cite the paper. A BibTeX entry and publication link will be added when the bibliographic information is available.
