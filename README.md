@@ -65,6 +65,7 @@ The shared-encoding pipeline reduces average end-to-end inference latency by **1
 
 The standard alignment setting uses unlabeled training images from VOC2012, VOC Context, and COCO 2017. An additional experiment trains DSAT on an external ImageNet subset. Neither category labels nor pixel-level annotations are used as alignment supervision.
 
+<!--
 ## Installation
 
 **Coming soon.** The tested Python, PyTorch, CUDA, and package versions will be documented with the initial code release.
@@ -117,8 +118,6 @@ Evaluated datasets:
 
 **TODO:** Add exact commands, expected output formats, checkpoint loading instructions, and examples using arbitrary user-supplied category queries.
 
-
-<!--
 ## Reproducibility checklist
 
 - [ ] Publish source code and tested environment specifications.
